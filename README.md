@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Team Management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## With React, React Redux, React Router
+
+### `npm start` to install all dependencies
+
+Login data is stored in local storage and rest of the data in redux store.
 
 ## Available Scripts
 
