@@ -2,20 +2,6 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialMemberState = {
   items: [
-    {
-      name: "Wayne Rooney",
-      company: "Everton",
-      status: "Active",
-      lastUpdated: "Today",
-      notes: "United Legend",
-    },
-    {
-      name: "Frank Lampard",
-      company: "Newcastle",
-      status: "Active",
-      lastUpdated: "Yesterday",
-      notes: "Many Goals scored",
-    },
   ],
 };
 
